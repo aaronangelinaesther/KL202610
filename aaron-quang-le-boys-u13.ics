@@ -1,0 +1,126 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aaron Quang Le//Malaysia Junior Open 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mjo2026-bu13-m71@aaron-quang-le
+DTSTAMP:20261010T000000Z
+DTSTART:20261013T110000Z
+DTEND:20261013T114500Z
+SUMMARY:Aaron squash R64 - Astaka 6 vs Hafiy Qazwainee Abdul Razak
+LOCATION:Astaka 6\, MILO All Star Malaysia Squash Junior Open 2026
+DESCRIPTION:Boys U13 main draw, match 71 (R64). Assumes Aaron wins every 
+ previous match.
+Opponent: [40] Hafiy Qazwainee Abdul Razak (PJY)
+https:/
+ /www.squashhub.live/tournaments/milo-all-star-malaysia-squash-junior-ope
+ n-2026/brackets?category=1ba233bc-92b8-47c4-83d4-7b776ba96e84
+END:VEVENT
+BEGIN:VEVENT
+UID:mjo2026-bu13-m100@aaron-quang-le
+DTSTAMP:20261010T000000Z
+DTSTART:20261014T070000Z
+DTEND:20261014T074500Z
+SUMMARY:Aaron squash R32 - Astaka 4
+LOCATION:Astaka 4\, MILO All Star Malaysia Squash Junior Open 2026
+DESCRIPTION:Boys U13 main draw, match 100 (R32). Assumes Aaron wins every
+  previous match.
+Possible opponents (by seed): [8] Cheuk Hei Yiu (HK)\, 
+ [57] Ezen Chee (KUL)\, [72] Faisal Hayat Khan Hayat Ullah Khan (SBH)
+htt
+ ps://www.squashhub.live/tournaments/milo-all-star-malaysia-squash-junior
+ -open-2026/brackets?category=1ba233bc-92b8-47c4-83d4-7b776ba96e84
+END:VEVENT
+BEGIN:VEVENT
+UID:mjo2026-bu13-m114@aaron-quang-le
+DTSTAMP:20261010T000000Z
+DTSTART:20261015T060000Z
+DTEND:20261015T064500Z
+SUMMARY:Aaron squash R16 - Astaka 2
+LOCATION:Astaka 2\, MILO All Star Malaysia Squash Junior Open 2026
+DESCRIPTION:Boys U13 main draw, match 114 (R16). Assumes Aaron wins every
+  previous match.
+Possible opponents (by seed): [9] Ashton Rain Medino (P
+ H)\, [24] Aadityaa Vijandran (PNG)\, [41] Navish R Kuhendranath (SEL)\, 
+ [56] Thaarun Vasanthan (PRK)\, [73] Gabilaesh Nandha Kumar (PRK)
+https:/
+ /www.squashhub.live/tournaments/milo-all-star-malaysia-squash-junior-ope
+ n-2026/brackets?category=1ba233bc-92b8-47c4-83d4-7b776ba96e84
+END:VEVENT
+BEGIN:VEVENT
+UID:mjo2026-bu13-m121@aaron-quang-le
+DTSTAMP:20261010T000000Z
+DTSTART:20261016T063000Z
+DTEND:20261016T071500Z
+SUMMARY:Aaron squash Quarter-final - Astaka 1
+LOCATION:Astaka 1\, MILO All Star Malaysia Squash Junior Open 2026
+DESCRIPTION:Boys U13 main draw, match 121 (Quarter-final). Assumes Aaron 
+ wins every previous match.
+Possible opponents (by seed): [1] Ngo San Leu
+ ng (HK)\, [16] Aleister Loo (AU)\, [17] Taaneshsathiyen Arunasalam (PNG)
+ \, [32] Dhevashwars Parama Sivam (NSN)\, [33] Muhammad Al Adeef Mohd Azi
+ zi (PJY)\, [48] Nitesh Siva Prakash (SEL)\, [49] Aadhavan Arunagiri (SEL
+ )\, [64] Jaaswinraja Narendrakanna (KUL)\, [65] Mohamad Luqman Hakim (NS
+ N)\, [80] Rayyan Mikail Bin Mohd Rapiz (KUL)
+https://www.squashhub.live/
+ tournaments/milo-all-star-malaysia-squash-junior-open-2026/brackets?cate
+ gory=1ba233bc-92b8-47c4-83d4-7b776ba96e84
+END:VEVENT
+BEGIN:VEVENT
+UID:mjo2026-bu13-m125@aaron-quang-le
+DTSTAMP:20261010T000000Z
+DTSTART:20261017T023000Z
+DTEND:20261017T031500Z
+SUMMARY:Aaron squash Semi-final - Astaka 2
+LOCATION:Astaka 2\, MILO All Star Malaysia Squash Junior Open 2026
+DESCRIPTION:Boys U13 main draw, match 125 (Semi-final). Assumes Aaron win
+ s every previous match.
+Possible opponents (by seed): [4] Nik Izz Dameer
+  Norifaizal (KTN)\, [5] Syed Muhammad Arash Adamsa Syed Mohd Rashidi (KD
+ H)\, [12] Lukesh A/L Chandrasekaran (PNG)\, [13] Yuxuan Zhou (CN)\, [20]
+  Pichpisuth Poonsiri (TH)\, [21] Harinath Navanithen (SEL)\, [28] Varesh
+ var Istritharan (NSN)\, [29] Kheshav Prem Kumar (SEL)\, [36] Muhammad Uw
+ ais Amsyar Mohammad Alif (MLK)\, [37] Xin Ze, Matthew Lee (SEL)\, [44] M
+ atteo Yun Lok Ong (SBH)\, [45] Jared Melvin Lau (SBH)\, [52] Muhammad Am
+ an Khasyi Mohd Jalil (KTN)\, [53] Rong Han (SEL)\, [60] Tengku Syed Abba
+ s Saad Tengku Syed Mohammad Suhaimi (JHR)\, [61] Chan Shannan (SEL)\, [6
+ 8] Uwais Alqarni Bin Irwan Junaidi (NSN)\, [69] Arun A/L Gobi Ganesh (NS
+ N)\, [76] Aarav Gathani (SEL)\, [77] Ashwarth Rham Prakash (SEL)
+https:/
+ /www.squashhub.live/tournaments/milo-all-star-malaysia-squash-junior-ope
+ n-2026/brackets?category=1ba233bc-92b8-47c4-83d4-7b776ba96e84
+END:VEVENT
+BEGIN:VEVENT
+UID:mjo2026-bu13-m127@aaron-quang-le
+DTSTAMP:20261010T000000Z
+DTSTART:20261018T013000Z
+DTEND:20261018T021500Z
+SUMMARY:Aaron squash Final - Duta 1
+LOCATION:Duta 1\, MILO All Star Malaysia Squash Junior Open 2026
+DESCRIPTION:Boys U13 main draw, match 127 (Final). Assumes Aaron wins eve
+ ry previous match.
+Possible opponents (by seed): [2] Kaelen Evan Low (SG
+ )\, [3] Iman Dylan Saadan (PJY)\, [6] Tianxiao Simon Mei (HK)\, [7] Wai 
+ Chun Hung (HK)\, [10] Yay Yau Kwok (HK)\, [11] Aarav Dinesh (NSN)\, [14]
+  Enze Guo (CN)\, [15] Muhammad Rizq Amzar Mohd Shahril (TRG)\, [18] Muyu
+ an Zou (SG)\, [19] Pannaruj Naovacharoenluck (TH)\, [22] Maaz Bin Fahad 
+ (QA)\, [23] Mabilash Sarovanan (MLK)\, [26] Varun Naedu A/L Partiban (NS
+ N)\, [27] Alexander Kelin Chen (HK)\, [30] Muhammad Rayyan Danish Mohd R
+ osli (PJY)\, [31] Balveer Singh Bamotra (SEL)\, [34] Ameer Ali Mohd Azmi
+  (KDH)\, [35] Nuh Anaqi Mohamad Nazrin (PJY)\, [38] Sean Yap (SEL)\, [39
+ ] Jia Le Lee (MLK)\, [42] Edmund Jun Siang Chan (SEL)\, [43] Dhaarvish N
+ air Surendren (PRK)\, [46] Mickson Choong (KDH)\, [47] Shanjevv Krishnan
+  (SEL)\, [50] Yousef Al Tamimi (QA)\, [51] Daim Darwisy Bin Mohd Hafiz (
+ SEL)\, [54] Lucas Chang Zhi Chai (JHR)\, [55] Eden Lai (KDH)\, [58] Muha
+ mmad Ghazi Ziyad Mohd Sham Khairul (PJY)\, [59] Yuvaneswaran Suresh (SEL
+ )\, [62] Jazzel Heraclius Jaffry (SBH)\, [63] Jae Ren Aaron Goon (SEL)\,
+  [66] Dhieran (SEL)\, [67] Emmanuel Damien (SBH)\, [70] Muhammad Amsyar 
+ Aqil Zainudin (JHR)\, [71] Aden Tumunda Jude Malinggang (SBH)\, [74] Eth
+ an Gan Zi Him (KUL)\, [75] Muhammad Aish Ilman Mahmud (SBH)\, [78] Muham
+ mad Jihad Dhiauddin (PJY)\, [79] Mahesvar A/L Ramu (NSN)
+https://www.squ
+ ashhub.live/tournaments/milo-all-star-malaysia-squash-junior-open-2026/b
+ rackets?category=1ba233bc-92b8-47c4-83d4-7b776ba96e84
+END:VEVENT
+END:VCALENDAR

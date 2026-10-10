@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Angelina Elizabeth Le//Malaysia Junior Open 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mjo2026-gu13-m32@angelina-elizabeth-le
+DTSTAMP:20261010T000000Z
+DTSTART:20261013T020000Z
+DTEND:20261013T024500Z
+SUMMARY:Angelina squash R64 - Astaka 8 vs Keerti Pradhaa Junivar Bala
+LOCATION:Astaka 8\, MILO All Star Malaysia Squash Junior Open 2026
+DESCRIPTION:Girls U13 main draw, match 32 (R64). Assumes Angelina wins ev
+ ery previous match.
+Opponent: [2] Keerti Pradhaa Junivar Bala (KUL)
+http
+ s://www.squashhub.live/tournaments/milo-all-star-malaysia-squash-junior-
+ open-2026/brackets?category=139a24be-d738-4d5b-81f1-e7326bbfe74c
+END:VEVENT
+BEGIN:VEVENT
+UID:mjo2026-gu13-m48@angelina-elizabeth-le
+DTSTAMP:20261010T000000Z
+DTSTART:20261014T043000Z
+DTEND:20261014T051500Z
+SUMMARY:Angelina squash R32 - Astaka 6
+LOCATION:Astaka 6\, MILO All Star Malaysia Squash Junior Open 2026
+DESCRIPTION:Girls U13 main draw, match 48 (R32). Assumes Angelina wins ev
+ ery previous match.
+Possible opponents (by seed): [31] Nur Arissa Auni M
+ uhammad Hadfiz (KTN)\, [34] Sabrina Mohd Faiz (SEL)
+https://www.squashhu
+ b.live/tournaments/milo-all-star-malaysia-squash-junior-open-2026/bracke
+ ts?category=139a24be-d738-4d5b-81f1-e7326bbfe74c
+END:VEVENT
+BEGIN:VEVENT
+UID:mjo2026-gu13-m56@angelina-elizabeth-le
+DTSTAMP:20261010T000000Z
+DTSTART:20261015T040000Z
+DTEND:20261015T044500Z
+SUMMARY:Angelina squash R16 - Astaka 7
+LOCATION:Astaka 7\, MILO All Star Malaysia Squash Junior Open 2026
+DESCRIPTION:Girls U13 main draw, match 56 (R16). Assumes Angelina wins ev
+ ery previous match.
+Possible opponents (by seed): [10] Zoe Makaryous (QA
+ )\, [19] Mithraasree Mohan (SEL)\, [42] Nik Neeya Hana Nik Aswad Restu (
+ KTN)\, [50] Sadhna Ganesvaran (NSN)
+https://www.squashhub.live/tournamen
+ ts/milo-all-star-malaysia-squash-junior-open-2026/brackets?category=139a
+ 24be-d738-4d5b-81f1-e7326bbfe74c
+END:VEVENT
+BEGIN:VEVENT
+UID:mjo2026-gu13-m60@angelina-elizabeth-le
+DTSTAMP:20261010T000000Z
+DTSTART:20261016T090000Z
+DTEND:20261016T094500Z
+SUMMARY:Angelina squash Quarter-final - Astaka 1
+LOCATION:Astaka 1\, MILO All Star Malaysia Squash Junior Open 2026
+DESCRIPTION:Girls U13 main draw, match 60 (Quarter-final). Assumes Angeli
+ na wins every previous match.
+Possible opponents (by seed): [7] Kavilaas
+ ri Balamurugan (KDH)\, [15] Rhea Renise Balasingam (NSN)\, [24] Preetiss
+ ha S Sathiynathan (MLK)\, [27] Aufa Khasyeaa Amin Kushairi (PHG)\, [39] 
+ Suvwetha Pratheep (PRK)\, [47] Azra Alesha Abdul Aziz (SEL)\, [55] Nur A
+ riana Vicram Rao (KUL)\, [58] Ava Zoey Lee Laguerta (SRWK)
+https://www.s
+ quashhub.live/tournaments/milo-all-star-malaysia-squash-junior-open-2026
+ /brackets?category=139a24be-d738-4d5b-81f1-e7326bbfe74c
+END:VEVENT
+BEGIN:VEVENT
+UID:mjo2026-gu13-m62@angelina-elizabeth-le
+DTSTAMP:20261010T000000Z
+DTSTART:20261017T020000Z
+DTEND:20261017T024500Z
+SUMMARY:Angelina squash Semi-final - Astaka 2
+LOCATION:Astaka 2\, MILO All Star Malaysia Squash Junior Open 2026
+DESCRIPTION:Girls U13 main draw, match 62 (Semi-final). Assumes Angelina 
+ wins every previous match.
+Possible opponents (by seed): [3] Yang Liu (H
+ K)\, [6] Arissa Sheikh Abd Hakim (KUL)\, [11] Vinirsa Hari Haran (KUL)\,
+  [14] Lyra Kate Trasmil (PH)\, [20] Tsz Yu Chiu (HK)\, [23] Dheerya Silv
+ a (LK)\, [26] Iszea Amani Ishak (SRWK)\, [28] Ming Wai Anna Lai (HK)\, [
+ 35] Chi Yiu Ma (HK)\, [38] Nur Dahlia Mohd Shahril (PJY)\, [43] Nur Adel
+ ia Ezzara Binti Eddy Ezzany (SBH)\, [45] Raz Aisya Amna Razhan Binti Abd
+ ul Rahim (PHG)\, [46] Raaisyah Nair (SEL)\, [51] Thanissha A/P Thanissha
+  A/P Arul Prakash (NSN)\, [54] Arisa Kaewprathum (TH)\, [59] Maryam Zula
+ ikha Binti Mohamed Nizar (NSN)
+https://www.squashhub.live/tournaments/mi
+ lo-all-star-malaysia-squash-junior-open-2026/brackets?category=139a24be-
+ d738-4d5b-81f1-e7326bbfe74c
+END:VEVENT
+BEGIN:VEVENT
+UID:mjo2026-gu13-m63@angelina-elizabeth-le
+DTSTAMP:20261010T000000Z
+DTSTART:20261018T010000Z
+DTEND:20261018T014500Z
+SUMMARY:Angelina squash Final - Duta 1
+LOCATION:Duta 1\, MILO All Star Malaysia Squash Junior Open 2026
+DESCRIPTION:Girls U13 main draw, match 63 (Final). Assumes Angelina wins 
+ every previous match.
+Possible opponents (by seed): [1] Kareena Sashikum
+ ar (SG)\, [4] Ching On Tang (HK)\, [5] Qingyuan Zheng (CN)\, [8] Nuie Ch
+ ew (SEL)\, [9] Sashana Istritharan (NSN)\, [12] Fenna Lau (NL)\, [13] Me
+ era Ruthiran (PNG)\, [16] Yuxi Cai (HK)\, [17] Yee Xuan Tan (SEL)\, [18]
+  Cahaya Dhia Qadijah Ady Suzier (KUL)\, [21] Dakshanaa Murali (MLK)\, [2
+ 2] Yi Yuet Chan (HK)\, [25] Shishalene A/P Yuvaraj (PNG)\, [29] Tanishaa
+  Senthil Kumaran (KUL)\, [30] Anwen You Zhen Chong (SRWK)\, [32] Nur Izz
+  Zara Adelia Zahrin (PJY)\, [33] Yi Ling Pang (SBH)\, [36] Samantha Jean
+  Vadya Muyau (SBH)\, [37] Arpanaa A/P Peter Rayan (SEL)\, [40] Satveika 
+ Hirranya Navin (SEL)\, [44] Nur Ariesya Adriana Qistina Binti Azman (KUL
+ )\, [48] Yi Xuan Tan (JHR)\, [49] Ruoshui Lu (CN)\, [52] Bella Yu (HK)\,
+  [53] Nur Safiya Imani Abdul Adzim (PJY)\, [56] Pei Ern Lim (SEL)\, [57]
+  Queenelle Zoey Herry Kong (SBH)\, [60] Prasannasri Jeyarajakumar (PRK)\
+ , [61] Fiona Zixuan Zheng (HK)\, [62] Mia Athirah Mohd Kamal (SEL)\, [63
+ ] Anya Cheong (SEL)
+https://www.squashhub.live/tournaments/milo-all-star
+ -malaysia-squash-junior-open-2026/brackets?category=139a24be-d738-4d5b-8
+ 1f1-e7326bbfe74c
+END:VEVENT
+END:VCALENDAR
