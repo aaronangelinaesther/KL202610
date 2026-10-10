@@ -19,4 +19,4 @@ MILO All Star Malaysia Squash Junior Open 2026
 | Semi-final | 62 | Sat 17 Oct, 10:00 am | Astaka 2 | Winner of match 59. Top seeds there: [3] Yang Liu (HK), [6] Arissa Sheikh Abd Hakim (KUL), [11] Vinirsa Hari Haran (KUL), [14] Lyra Kate Trasmil (PH) |
 | Final | 63 | Sun 18 Oct, 9:00 am | Duta 1 | Winner of match 61. Top seeds there: [1] Kareena Sashikumar (SG), [4] Ching On Tang (HK), [5] Qingyuan Zheng (CN), [8] Nuie Chew (SEL) |
 
-For the schedule if she loses her second match, see [second-match-loss-scenarios.md](second-match-loss-scenarios.md).
+For the schedules if she loses her first, second or third match, see [loss-scenarios.md](loss-scenarios.md).

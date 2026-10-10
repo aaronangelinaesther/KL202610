@@ -19,4 +19,4 @@ MILO All Star Malaysia Squash Junior Open 2026
 | Semi-final | 125 | Sat 17 Oct, 10:30 am | Astaka 2 | Winner of match 122. Top seeds there: [4] Nik Izz Dameer Norifaizal (KTN), [5] Syed Muhammad Arash Adamsa Syed Mohd Rashidi (KDH), [12] Lukesh A/L Chandrasekaran (PNG), [13] Yuxuan Zhou (CN) |
 | Final | 127 | Sun 18 Oct, 9:30 am | Duta 1 | Winner of match 126. Top seeds there: [2] Kaelen Evan Low (SG), [3] Iman Dylan Saadan (PJY), [6] Tianxiao Simon Mei (HK), [7] Wai Chun Hung (HK) |
 
-For the schedule if he loses his second match, see [second-match-loss-scenarios.md](second-match-loss-scenarios.md).
+For the schedules if he loses his second or third match, see [loss-scenarios.md](loss-scenarios.md).

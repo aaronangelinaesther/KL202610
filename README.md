@@ -8,7 +8,7 @@ Match schedules for Aaron and Angelina, 13–18 Oct 2026. All times are Malaysia
 |---|---|
 | [aaron-quang-le-boys-u13.md](aaron-quang-le-boys-u13.md) | Aaron Quang Le, Boys U13 (seed 25): main-draw schedule if he wins every match |
 | [angelina-elizabeth-le-girls-u13.md](angelina-elizabeth-le-girls-u13.md) | Angelina Elizabeth Le, Girls U13 (seed 41): main-draw schedule if she wins every match |
-| [second-match-loss-scenarios.md](second-match-loss-scenarios.md) | Both players: placing play-off schedule if they lose their second match (R32) |
+| [loss-scenarios.md](loss-scenarios.md) | Both players: placing play-off schedules if they lose their second match (R32) or third match (R16) |
 
 ## Calendar files
 
